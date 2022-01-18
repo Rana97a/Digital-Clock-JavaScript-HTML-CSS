@@ -1,0 +1,18 @@
+.clock{
+    background-image: url('file:///C:/Users/user/Desktop/hand-painted-watercolor-pastel-sky-background_23-2148902771.jpg');
+    width: 300px;
+    padding: 20px;
+    border-radius: 50px;
+   
+}
+.day,
+.hours,
+.ss,
+.minutes,
+.ss1,
+.seconds,
+.amPm{
+color:oldlace;
+font-size:50px;
+font-family: unset;
+}
